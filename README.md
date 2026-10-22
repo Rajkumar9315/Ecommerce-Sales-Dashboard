@@ -1,7 +1,7 @@
-# Madhav Ecommerce Sales Dashboard
+# E-Commerce Sales Analysis Dashboard
 
 ## 📊 Project Overview
-An interactive Power BI dashboard developed to analyze Madhav Ecommerce sales data and identify key business insights.
+An interactive Power BI dashboard built to analyze e-commerce sales performance and identify key business insights.
 
 ## 🛠️ Tools & Technologies
 - Power BI
@@ -25,4 +25,4 @@ The dashboard helps analyze sales performance, profitability, customer purchasin
 
 ## 📷 Dashboard Preview
 
-![Madhav Ecommerce Dashboard](Dashboard-Screenshot.png)
+![E-Commerce Sales Dashboard](./Dashboard_Screenshot.png)
